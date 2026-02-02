@@ -45,6 +45,11 @@ GROUVY는 사내 근태 관리와 커뮤니티 기능을 통합한 그룹웨어 
 
 ---
 
+## ERD
+<img width="4810" height="3602" alt="GROUVY-2" src="https://github.com/user-attachments/assets/4f1d6d25-ba4e-4655-86ad-dcfe33fe043a" />
+
+---
+
 ## 그 외 기능
 - 전자결재
 - 채팅
